@@ -1,0 +1,27 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "The NodeJS Static Web Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DogJun/anydoor.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "DogJun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DogJun/anydoor/issues"
+  },
+  "homepage": "https://github.com/DogJun/anydoor#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "chalk": "^2.3.0",
+    "eslint": "^4.10.0"
+  }
+}
