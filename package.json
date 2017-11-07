@@ -23,5 +23,8 @@
     "babel-eslint": "^8.0.1",
     "chalk": "^2.3.0",
     "eslint": "^4.10.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.11"
   }
 }
